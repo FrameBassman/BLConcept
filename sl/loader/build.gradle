@@ -28,7 +28,7 @@ dependencies {
         project(':il:hw:hwEventApi'),
         project(':il:hw:kbdHook'),
 
-        project(':ui:swing')
+        project(':ui:swing'),
 }
 
 application {
